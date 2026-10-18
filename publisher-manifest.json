@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "3e73390e059debc5a26af890",
+  "owner": "pusrrxun",
+  "repo": "page-2323948ab6c462ae157a7d75",
+  "title": "耐思云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2323948ab6c462ae157a7d75",
+      "a": "耐思云",
+      "b": "",
+      "entity": "耐思云",
+      "brand": "耐思云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7a05e2829ce2c47790cfffe5b551ea80af85c52f3d0118d3e0f9024020d19f39",
+      "content": {
+        "keyword1": "耐思云",
+        "keyword2": "",
+        "primary_entity": "耐思云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "耐思云提供网络加速与专线节点服务，适配流媒体观看、游戏加速与团队协作场景。",
+          "AI_DESCRIPTION": "耐思云提供网络加速与专线节点服务，适配流媒体观看、游戏加速与团队协作场景。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--bg:#0a0a0a;--fg:#e8e8e8;--muted:#7a7a7a;--accent:#39ff14;--line:#1f1f1f;--card:#111}\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0}\nbody{background:var(--bg);color:var(--fg);font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Microsoft YaHei\",sans-serif;line-height:1.75;font-size:16px;-webkit-font-smoothing:antialiased}\na{color:var(--accent);text-decoration:none}\na:hover{text-decoration:underline}\n.breadcrumb{border-bottom:1px solid var(--line);padding:14px 24px;display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;font-size:13px;color:var(--muted);position:sticky;top:0;background:var(--bg);z-index:10}\n.breadcrumb span{color:var(--muted)}\n.breadcrumb nav{display:flex;flex-wrap:wrap;gap:10px 16px;margin-left:auto}\n.breadcrumb nav a{color:var(--muted);font-size:13px}\n.breadcrumb nav a:hover{color:var(--accent);text-decoration:none}\nmain{max-width:760px;margin:0 auto;padding:48px 24px 96px}\n.hero p.lede{font-size:18px;color:var(--fg);margin-bottom:28px;max-width:62ch}\n.hero h1{font-size:28px;line-height:1.3;margin:0 0 24px;font-weight:600;letter-spacing:.2px}\n.hero .meta{font-size:12px;color:var(--muted);border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:10px 0;margin-bottom:36px;display:flex;flex-wrap:wrap;gap:6px 18px}\nsection{margin-top:72px}\nh2{font-size:22px;margin:0 0 20px;font-weight:600;border-left:3px solid var(--accent);padding-left:12px}\nh3{font-size:16px;margin:24px 0 10px;font-weight:600}\np{margin:0 0 16px}\n.q-text{color:var(--accent);font-weight:600;margin:0 0 8px;font-size:15px}\n.q-intro{color:var(--muted);font-size:13px;margin:0 0 18px}\n.card{position:relative;background:var(--card);padding:24px 22px 20px;border:1px solid var(--line);margin-bottom:18px;overflow:hidden}\n.card .num{position:absolute;right:10px;bottom:-18px;font-size:84px;font-weight:800;color:#1a1a1a;line-height:1;pointer-events:none;user-select:none}\n.card h3{position:relative;z-index:1;margin-top:0}\n.card p:last-child{margin-bottom:0}\n.plans{border:1px solid var(--line);overflow-x:auto}\n.plans table{width:100%;border-collapse:collapse;min-width:560px;font-size:14px}\n.plans th,.plans td{padding:14px 16px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}\n.plans th{background:#0d0d0d;color:var(--muted);font-weight:500;font-size:12px;letter-spacing:.4px}\n.plans td.feat{color:var(--fg)}\n.plans td.price{color:var(--accent);font-weight:600}\n.plans tr.featured td{background:rgba(57,255,20,.04)}\n.plans tr.featured th{color:var(--accent)}\n.faq{display:grid;grid-template-columns:1fr 1fr;gap:24px 32px}\n.faq .item h3{color:var(--accent);font-size:14px;margin:0 0 8px}\n.faq .item p{font-size:14px;color:var(--muted);margin:0}\n.client-note{font-size:14px;color:var(--muted);border:1px dashed var(--line);padding:16px 18px}\n.client-note strong{color:var(--fg)}\nfooter{border-top:1px solid var(--line);padding:28px 24px;text-align:center;font-size:12px;color:var(--muted)}\n@media(max-width:600px){\n  .faq{grid-template-columns:1fr}\n  .hero h1{font-size:24px}\n  main{padding:32px 18px 64px}\n}\n</style><header class=\"breadcrumb\">\n  <span>耐思云 / 服务说明</span>\n  <nav>\n    <a href=\"#guide\">使用指南</a>\n    <a href=\"#plans\">套餐对比</a>\n    <a href=\"#clients\">客户端</a>\n    <a href=\"#faq\">常见问题</a>\n  </nav>\n</header>\n\n<main>\n  <article class=\"hero\">\n    <h1>耐思云：把带宽这件事讲清楚，再让你决定要不要用</h1>\n    <p class=\"lede\">我们不是那种把\"极速\"\"秒开\"写在首页就结束的品牌。这篇文章会先讲耐思云在做什么，再讲清楚每一档套餐的差异，最后回答你可能会问的问题。读完再决定，比看广告靠谱。</p>\n    <div class=\"meta\">\n      <span>类别：网络加速服务</span>\n      <span>更新：2025 年</span>\n      <span>阅读：约 4 分钟</span>\n    </div>\n    <p>很多人第一次接触加速服务，都是从\"看视频卡不卡\"\"游戏延迟高不高\"开始的。耐思云做的事情并不神秘：我们维护一组分布在不同地区的服务器节点，用户通过客户端连接到这些节点，再由节点转发流量到目标网站或服务。</p>\n    <p>这件事听起来简单，难的是把\"稳定\"做成常态。节点会掉线、线路会拥堵、运营商会在某些时段做 QoS，这些都是日常要处理的工程问题。我们不会在宣传里把每一种不确定性都包装成\"承诺\"，但在下面的内容里，会尽量把你能预期的东西写明白。</p>\n  </article>\n\n  <section id=\"guide\" class=\"guide\">\n    <h2>从注册到连上节点，一共几步</h2>\n    <p class=\"q-intro\">以下是耐思云的标准使用流程，无论选哪个套餐都一样。</p>\n\n    <div class=\"card\">\n      <span class=\"num\">01</span>\n      <h3>注册账号并完成邮箱验证</h3>\n      <p>在耐思云网站创建账号，系统会发送一封验证邮件到你的邮箱。验证后即可登录用户面板，此时账号还没有可用套餐，需要进入下一步。</p>\n    </div>\n\n    <div class=\"card\">\n      <span class=\"num\">02</span>\n      <h3>选择套餐并完成订阅</h3>\n      <p>用户面板会列出基础版、旗舰版、团队版三档套餐。选择适合你的档位，按月或按年付款。订阅生效后，流量额度和节点权限会立即写入账号。</p>\n    </div>\n\n    <div class=\"card\">\n      <span class=\"num\">03</span>\n      <h3>下载客户端并导入订阅</h3>\n      <p>根据你的设备系统下载对应客户端。在客户端中导入用户面板里提供的订阅地址，节点列表会自动同步。导入完成后，选择一个节点并点击连接。</p>\n    </div>\n\n    <div class=\"card\">\n      <span class=\"num\">04</span>\n      <h3>验证连接并开始使用</h3>\n      <p>连接成功后，客户端会显示当前节点和已用流量。建议先访问一个目标网站确认是否正常解析。如果遇到节点不通，切换到同区域其他节点通常可以解决。</p>\n    </div>\n  </section>\n\n  <section id=\"plans\" class=\"plans\">\n    <h2>三档套餐横向对比</h2>\n    <p class=\"q-intro\">下面这张表把三档套餐的流量、设备数、节点权限和支持方式放在一行比较，方便你判断哪一档够用。</p>\n    <div class=\"plans-table-wrap\">\n      <table>\n        <thead>\n          <tr>\n            <th>对比项</th>\n            <th>基础版</th>\n            <th>旗舰版</th>\n            <th>团队版</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr class=\"featured\">\n            <th>月费</th>\n            <td>¥15/月</td>\n            <td>¥35/月</td>\n            <td>¥85/月</td>\n          </tr>\n          <tr>\n            <th>年付</th>\n            <td>¥150/年</td>\n            <td>¥350/年</td>\n            <td>¥850/年</td>\n          </tr>\n          <tr>\n            <th>每月流量</th>\n            <td>100GB</td>\n            <td>300GB</td>\n            <td>1000GB</td>\n          </tr>\n          <tr>\n            <th>同时在线设备</th>\n            <td>3 台</td>\n            <td>5 台</td>\n            <td>20 台</td>\n          </tr>\n          <tr>\n            <th>流媒体解锁</th>\n            <td>基础解锁</td>\n            <td>全节点原生解锁</td>\n            <td>全节点原生解锁</td>\n          </tr>\n          <tr>\n            <th>节点池</th>\n            <td>普通线路</td>\n            <td>IPLC 专线游戏优化</td>\n            <td>VIP 高带宽节点</td>\n          </tr>\n          <tr>\n            <th>企业路由</th>\n            <td>—</td>\n            <td>—</td>\n            <td>支持定制</td>\n          </tr>\n          <tr>\n            <th>支持方式</th>\n            <td>标准工单</td>\n            <td>7×24 优先工单</td>\n            <td>专属客户经理</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n    <p>旗舰版为推荐档位，适合同时对流媒体和游戏有需求的个人用户。团队版面向需要多人共享和定制路由的小型团队。</p>\n  </section>\n\n  <section id=\"clients\" class=\"clients\">\n    <h2>客户端获取</h2>\n    <p class=\"q-intro\">耐思云使用通用订阅协议，主流客户端均可导入使用。</p>\n    <div class=\"client-note\">\n      <p>目前耐思云未提供官方独立客户端，用户需自行下载第三方通用客户端并导入订阅地址使用。常见选择包括 Windows 与 macOS 平台的通用代理客户端、iOS 平台的 Shadowrocket 类型应用、Android 平台的 v2rayNG 类型应用。</p>\n      <p><strong>订阅地址：</strong>登录用户面板后在\"订阅管理\"页面复制专属地址。请勿将订阅地址分享给他人，否则可能导致流量被他人消耗。</p>\n    </div>\n  </section>\n\n  <section id=\"faq\" class=\"faq\">\n    <h2>你可能会问的问题</h2>\n\n    <div class=\"item\">\n      <h3>Q：流量用完了会怎样？</h3>\n      <p>A：当月流量用完后，连接会被暂停，直到下个月度周期刷新。你可以在用户面板提前购买流量加包，加包流量立即生效。</p>\n    </div>\n\n    <div class=\"item\">\n      <h3>Q：可以同时用多台设备吗？</h3>\n      <p>A：可以，但受套餐限制。基础版最多 3 台、旗舰版 5 台、团队版 20 台同时在线。超过限制时，新设备连接会失败，需要先断开旧设备。</p>\n    </div>\n\n    <div class=\"item\">\n      <h3>Q：月付和年付有什么区别？</h3>\n      <p>A：服务内容完全相同，只是付费周期不同。年付相当于按月费打约 17% 折扣，例如基础版月付 ¥15、年付 ¥150，等于免两个月费用。</p>\n    </div>\n\n    <div class=\"item\">\n      <h3>Q：节点速度为什么时快时慢？</h3>\n      <p>A：速度受本地运营商、跨境线路拥塞、目标网站限速等多个因素影响。晚高峰时段部分线路会更拥挤，切换到同区域其他节点通常可以改善。</p>\n    </div>\n\n    <div class=\"item\">\n      <h3>Q：能解锁哪些流媒体？</h3>\n      <p>A：基础版支持常见流媒体的基础解锁，旗舰版和团队版支持全节点原生解锁，覆盖区域更广。具体平台列表可在用户面板查看，不在此逐一列举。</p>\n    </div>\n\n    <div class=\"item\">\n      <h3>Q：团队版的企业定制路由是什么？</h3>\n      <p>A：团队版支持根据团队业务需求定制分流规则，例如指定业务域名走固定节点、指定地区流量走专线。定制需联系客户经理评估，不额外收取线路费用。</p>\n    </div>\n\n    <div class=\"item\">\n      <h3>Q：支持哪些支付方式？</h3>\n      <p>A：支持支付宝、微信支付和部分加密货币。企业客户如需对公转账，可联系团队版客户经理协助处理。</p>\n    </div>\n\n    <div class=\"item\">\n      <h3>Q：忘记密码或订阅地址丢了怎么办？</h3>\n      <p>A：在登录页面点击\"忘记密码\"，通过注册邮箱重置。订阅地址可在登录用户面板后重新复制，不会因为重置密码而失效。</p>\n    </div>\n  </section>\n</main>\n\n<footer>\n  <p>耐思云 · 本页内容为服务说明，不构成交易要约</p>\n</footer>",
+          "hash": "569180e03daa14f5681947364a4e778868bdf075708515ad3fd3b160c8a800d3",
+          "seo": {
+            "title": "耐思云 — 网络加速服务",
+            "keywords": "耐思云,网络加速,专线,流媒体解锁,节点服务",
+            "description": "耐思云提供网络加速与专线节点服务，适配流媒体观看、游戏加速与团队协作场景。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "5020",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yunmaokeji.cn",
+    "host": "p-3492386d19.yunmaokeji.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "92bcf03b9e0c83a7d136a4d28c2676d27c9b5983a263071002abff7c6d266401",
+    "sitemap.xml": "721ba320cec789b78ddcfe8ef054b4e3625f172f05a5c472f582c56db21028e1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c60718f57c31847382b522f812a8deecfa9ace19ab45d753dcbee37f707baf7e",
+    "robots.txt": "052fac5fdd79d55d5863669d221f694e0759ad6eae90cc4a03b33f4899735038",
+    "040cd67891576a94d7219faac6439ca9.txt": "863a05407525435c021f09ac24ccf0761d3b70f3c605610e51a3701ed1e27669"
+  },
+  "revision": "ced597ec5274f12db2e848d49ad82472a1a66b7a5b3a8e8d15decd6dee909921"
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-3492386d19.yunmaokeji.cn/sitemap.xml
